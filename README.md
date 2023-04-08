@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @siyoungmah (It's pronounced "She Young," like "She (is) Young.")
 - 👀 I’m a software engineer, math educator, lifelong learner!
-- 🌱 I’m a fullstack developer with experience in JavaScript/TypeScript, React, Redux, Node/Express, Testing(Jest, React Testing Library, Playwright), SQL, NoSQL, Git, Docker, Kubernetes, TravisCI, HTML, CSS/SASS
+- 🌱 I’m a fullstack developer with experience in JavaScript/TypeScript, React, Redux, Node/Express, Testing(Jest, React Testing Library, Playwright, Cypress), SQL, NoSQL, Git, Docker, Kubernetes, Github Actions, HTML, CSS/SASS
